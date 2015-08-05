@@ -27,7 +27,7 @@ Swoole is free and opensource software, License is Apache 2.0, Feel free to use 
 * Swoole Developers QQ Group：364153814，321637118（No seats），Communicate with swoole users and developers
 * [Swoole Official Q&A](http://group.swoole.com/)
 * [PHP WIKI](http://php.swoole.com/)
-* 
+
 ## Donate Swoole opensource project
 
 Thanks for you donate, your love will help us continue develop and improve Swoole, Your donates will be used for:
